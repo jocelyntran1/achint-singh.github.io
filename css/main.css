@@ -14,6 +14,7 @@ nav ul li{
     padding: 0;
     width: 25%;
     background-color: #BBDEFB;
+    color: #BBDEFB;
     position: fixed;
     height: 100%;
     overflow: auto;
@@ -38,7 +39,7 @@ nav li a:hover:not(.active) {
 
 footer ul li {
     display: inline;
-    margin-right: 20px;
+    margin-left: 25%;
 }
 a {
     text-decoration: none;
